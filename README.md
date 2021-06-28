@@ -1,4 +1,4 @@
-# responsive-made-easy Made by Kevin Powell
+Forked # responsive-made-easy by Kevin Powell
 Simple site template
 
 
